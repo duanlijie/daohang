@@ -52,7 +52,6 @@ body {
     font: 14px/1.5 "STHeiti","Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif; /*宋体 unicode */
     color: #fff;
     background-color: #EEEEEE;
-    min-width: 1226px;
 }
 
 /*清除浮动*/
@@ -92,8 +91,11 @@ s, i, em {
 /*公共类*/
 .wrapper {
     /*版心 提取 */
-    width: 1226px;
+    width: 90%;
     margin: 0 auto;
+    @media screen and(max-width: 1200px) {
+        width: 95%;
+    }
 }
 
 .fl {

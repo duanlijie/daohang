@@ -9,8 +9,14 @@ $blue : #0099FF;
 	background-color: $blue;
 	.logo{
 		line-height: 100px;
-		color: #fff;
+		a{
+			color: #fff;
 		font-size: 26px;
+		}
+		@media screen and(max-width: 768px) {
+			width: 100%;
+			text-align: center;
+		}
 	}
 	.desc{
 		height: 40px;
@@ -18,13 +24,25 @@ $blue : #0099FF;
 		line-height: 20px;
 		color: #fff;
 		text-align: center;
+		@media screen and(max-width: 960px) {
+			display: none;
+		}
 	}
 	// 搜索框部分
 	.search{
 		position: absolute;
-		top: 32.5px;
+		bottom: 32.5px;
 		right: 40%;
 		font-size: 0;
+		@media screen and(max-width: 960px) {
+			right: 2%;
+		}
+		@media screen and(max-width: 768px) {
+			right: 50%;
+			margin-right: -125px;
+			bottom: -50px;
+			z-index: 20;
+		}
 		.search_txt,.search_btn{
 			display: inline-block;
 			vertical-align: top;
@@ -58,6 +76,9 @@ $blue : #0099FF;
 		position: absolute;
 		top: 0px;
 		left: 0;
+		@media screen and(max-width: 960px) {
+			display: none;
+		}
 		.nav_item{
 			display: block;
 			width: 120px;
@@ -79,6 +100,12 @@ $blue : #0099FF;
 	// 内容部分
 	.content{
 		padding:20px 0 0 150px;
+		@media screen and(max-width: 960px) {
+			padding-left: 2%;
+		}
+		@media screen and(max-width: 768px) {
+			padding-top: 40px;
+		}
 		.content_items{
 			padding-top: 20px;
 			.title{
@@ -90,17 +117,31 @@ $blue : #0099FF;
 				background-color: $blue;
 				text-align: center;
 				font-size: 20px;
+				@media screen and(max-width: 640px) {
+					width: 98%;
+				}
 			}
 			.content_item{
-				width: 180px;
+				width: 16%;
 				height: 60px;
 				padding: 10px;
 				margin-right: 10px;
 				margin-bottom: 10px;
+				box-shadow: 2px 2px 5px 2px #BBBBBB;
 				background-color: #fff;
 				border-radius: 5px;
 				overflow: hidden;
-				box-shadow: 2px 2px 5px 2px #BBBBBB;
+				@media screen and(max-width: 1200px) {
+					width: 21%;
+				}
+				@media screen and(max-width: 825px) {
+					width: 27%;
+					margin-right: 1%
+				}
+				@media screen and(max-width: 640px) {
+					padding: 2%;
+					margin: 0 1% 10px;
+				}
 				.link{
 					display: inline-block;
 					font-size: 15px;
@@ -123,18 +164,39 @@ $blue : #0099FF;
 .footer{
 	position: relative;
 	height: 150px;
-	line-height: 150px;
 	margin-top: 50px;
-	z-index: 20;
 	background-color: #222222;
 	text-align: center;
 	font-size: 18px;
 	.info{
+		height: 50px;
+		line-height: 50px;
 		letter-spacing: 2px;
 	}
 	img{
-		width: 120px;
-		height: 120px;
-		margin-left: 50px;
+		width: 100px;
+		height: 100px;
+	}
+}
+
+/*返回顶部*/
+.back_to_top{
+	position: fixed;
+	bottom: 25px;
+	right: 25px;
+	a{
+		display: block;
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		border-radius: 5px;
+		background-color: rgba(0,0,0,0.3);
+		color: #fff;
+		text-align: center;
+		font-size: 22px;
+		&:hover{
+			transition: all 0.2s linear;
+			background-color: rgba(0,0,0,0.6);
+		}
 	}
 }

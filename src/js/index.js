@@ -15,7 +15,7 @@ $(function () {
 		$('html, body').animate({
 			scrollTop: $($(this).attr('href')).offset().top
 		})
-		// return false
+		return false;
 	})
 
 	// 处理导航栏卷曲到一定高度后固定的效果
@@ -27,18 +27,31 @@ $(function () {
 				"top": 0,
 				"left": marginLeft
 			})
-		}
-		if ($(document).scrollTop() < $('.header').height()) {
+		}else if ($(document).scrollTop() < $('.header').height()) {
 			$('.nav').css({
 				"position": "absolute",
 				"top": 0,
 				"left": 0
 			})
 		}
+		console.log($('.content_items h3').first().offset().top)
+		if ($(document).scrollTop() >= $('.content_items h3').first().offset().top) {
+			$('.back_to_top').show()
+		}else {
+			$('.back_to_top').hide()
+		}
 	});
 
 	$('.nav').on('click', '.nav_item',function () {
 		$(this).parent().siblings().children().removeClass('active')
 		$(this).addClass('active')
+	})
+
+	// 处理返回顶部
+	$('.back_to_top').click(function () {
+		$('html, body').animate({
+			scrollTop: 0
+		})
+		return false
 	})
 })

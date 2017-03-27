@@ -1,0 +1,701 @@
+[{
+	"title": "学习网站",
+	"id": "learn_site",
+	"list": [{
+		"title": "W3Cschool",
+		"href": "http://www.w3cschool.cn/",
+		"desc": "一个专业的编程入门学习及技术文档查询网站"
+	},{
+		"title": "菜鸟教程",
+		"href": "http://www.runoob.com/",
+		"desc": "菜鸟教程(www.runoob.com)提供了最全的编程技术基础教程"
+	},{
+		"title": "MDN",
+		"href": "https://developer.mozilla.org/zh-CN/",
+		"desc": "Mozilla 开发者网络"
+	},{
+		"title": "css88",
+		"href": "http://www.css88.com/",
+		"desc": "有一些技术文章,总结了许多API文档,一些免费视频"
+	},{
+		"title": "w3cplus",
+		"href": "http://www.w3cplus.com/",
+		"desc": "以一起学习进步，共同分享为原则，为打造优秀的前端学习教程而努力"
+	},{
+		"title": "前端网QDfuns",
+		"href": "http://www.qdfuns.com/",
+		"desc": "原W3Cfuns"
+	},{
+		"title": "慕课网",
+		"href": "http://www.imooc.com/",
+		"desc": "在线互动编程学习平台"
+	},{
+		"title": "前端笔记",
+		"href": "http://www.w3cmark.com/",
+		"desc": "前端开发资源整合和学习网站"
+	},{
+		"title": "Csstop",
+		"href": "http://www.csstop.com/",
+		"desc": "专注于WEB前端开发"
+	},{
+		"title": "前端资源网",
+		"href": "http://www.58img.com/",
+		"desc": "web前端资源"
+	},{
+		"title": "前端里",
+		"href": "http://www.yyyweb.com/",
+		"desc": "Web 开发技术和资源分享"
+	},{
+		"title": "webplatform",
+		"href": "http://www.webplatform.org/",
+		"desc": "webplatform"
+	},{
+		"title": "InfoQ",
+		"href": "http://www.infoq.com/cn/",
+		"desc": "InfoQ - 促进软件开发领域知识与创新的传播"
+	},{
+		"title": "前端范",
+		"href": "http://www.qianduanfan.com/",
+		"desc": "一个前端问答社区"
+	},{
+		"title": "HTML5中国",
+		"href": "http://www.html5cn.org/",
+		"desc": "提供HTML5在线学习资源"
+	},{
+		"title": "Helloweba",
+		"href": "http://www.helloweba.com/",
+		"desc": "提供技术文章与源码下载"
+	},{
+		"title": "爱思资源网",
+		"href": "http://www.aseoe.com/",
+		"desc": "web前端资源网站"
+	},{
+		"title": "编程开发",
+		"href": "http://www.wufangbo.com/",
+		"desc": "个人的编程技术与互联网资讯分享"
+	},{
+		"title": "汇智网",
+		"href": "http://www.hubwiz.com/",
+		"desc": "在线互动编程学习平台"
+	},{
+		"title": "TalkingCoder",
+		"href": "https://www.talkingcoder.com/",
+		"desc": "一个社区"
+	},{
+		"title": "w3c",
+		"href": "https://www.w3.org/",
+		"desc": "World Wide Web Consortium"
+	},{
+		"title": "io",
+		"href": "https://iojs.org/zh/index.html",
+		"desc": "在线互动编程学习平台"
+	},{
+		"title": "实验楼",
+		"href": "https://www.shiyanlou.com/",
+		"desc": "在线实训平台"
+	},{
+		"title": "前端社区",
+		"href": "https://iojs.org/zh/index.html",
+		"desc": "资源、知识分享交流平台|JQ插件库、素材资源网站"
+	},{
+		"title": "麦子学院",
+		"href": "http://www.maiziedu.com/",
+		"desc": "在线培训,有一些免费视频"
+	}]
+},{
+	"title": "工具",
+	"id": "tools",
+	"list": [{
+		"title": "npm",
+		"href": "https://www.npmjs.com/",
+		"desc": "包管理工具"
+	},{
+		"title": "awesomes",
+		"href": "https://www.awesomes.cn/",
+		"desc": "Web前端开发工程师需要的免费开源的高质量前端库、框架和插件"
+	},{
+		"title": "前端开发仓库",
+		"href": "http://code.ciaoca.com/",
+		"desc": "总结了很多实用的工具,jquery插件,还有其他不错的功能"
+	},{
+		"title": "脚本之家在线工具",
+		"href": "http://tools.jb51.net/",
+		"desc": "在线工具"
+	},{
+		"title": "W3C验证",
+		"href": "https://validator.w3.org/",
+		"desc": "Check the markup (HTML, XHTML, …) of Web documents"
+	},{
+		"title": "开源中国-在线工具",
+		"href": "http://tool.oschina.net/",
+		"desc": "在线工具"
+	},{
+		"title": "Can I use",
+		"href": "http://caniuse.com/#home",
+		"desc": "能够获取最新浏览器兼容"
+	},{
+		"title": "草料二维码",
+		"href": "http://cli.im/",
+		"desc": "通过二维码展示信息"
+	},{
+		"title": "颜色转换",
+		"href": "http://www.sioe.cn/yingyong/yanse-rgb-16/",
+		"desc": "RGB颜色值与十六进制颜色码转换工具"
+	}]
+},{
+	"title": "图标",
+	"id": "icon",
+	"list": [{
+		"title": "阿里iconfont",
+		"href": "http://www.iconfont.cn/plus",
+		"desc": "字体图标库,需要登录才能下载"
+	},{
+		"title": "阿里iconfont",
+		"href": "http://iconfont.cn/collections",
+		"desc": "阿里字体图标库,无需登录即可下载"
+	},{
+		"title": "图标下载",
+		"href": "http://www.easyicon.net/iconsearch/ios/",
+		"desc": "ios PNG、ICO、ICNS 格式图标搜索下载"
+	},{
+		"title": " 奥森图标",
+		"href": "http://www.thinkcmf.com/font",
+		"desc": "字体图标"
+	},{
+		"title": "Font Awesome",
+		"href": "http://www.bootcss.com/p/font-awesome/",
+		"desc": "为 Bootstrap 而创造的图标字体"
+	},{
+		"title": "Font Awesome",
+		"href": "http://fontawesome.dashgame.com/",
+		"desc": "一套绝佳的图标字体库和CSS框架"
+	},{
+		"title": "Font Awesome",
+		"href": "http://www.fontawesome.cn/",
+		"desc": "一款风靡全球的图标字体库和CSS框架"
+	},{
+		"title": "icomoon",
+		"href": "https://icomoon.io/",
+		"desc": "图标字体库"
+	}]
+},{
+	"title": "配色",
+	"id": "color",
+	"list": [{
+		"title": "Color Hunt",
+		"href": "http://colorhunt.co/",
+		"desc": "colorhunt"
+	},{
+		"title": "Adobe Color CC",
+		"href": "https://color.adobe.com/zh/create/color-wheel/",
+		"desc": "色彩配置"
+	},{
+		"title": "color hunter",
+		"href": "http://www.colorhunter.com/",
+		"desc": "colorhunter"
+	},{
+		"title": " WEB安全色",
+		"href": "http://www.bootcss.com/p/websafecolors/",
+		"desc": "bootcss"
+	},{
+		"title": "flatuicolors",
+		"href": "http://flatuicolors.com/",
+		"desc": "颜色配置,flatuicolors.com"
+	},{
+		"title": "flatcolors",
+		"href": "http://flatcolors.net/palettes.php",
+		"desc": "颜色配置,flatuicolors.net"
+	},{
+		"title": "设计种子",
+		"href": "https://www.design-seeds.com/",
+		"desc": "一位从业18年的色彩专家分享的配色经验与案例"
+	}]
+},{
+	"title": "字体",
+	"id": "font",
+	"list": [{
+		"title": "阿里妈妈",
+		"href": "http://iconfont.cn/webfont/#!/webfont/index",
+		"desc": "阿里妈妈webfont平台"
+	},{
+		"title": "有字库",
+		"href": "https://www.youziku.com/onlinefont/index",
+		"desc": "在线字库"
+	},{
+		"title": "找字网",
+		"href": "http://www.zhaozi.cn/",
+		"desc": "免费字体下载"
+	},{
+		"title": " 阿里字库",
+		"href": "http://aliziku.com/",
+		"desc": "免费下载字体"
+	},{
+		"title": "googlefonts",
+		"href": "http://googlefonts.com/",
+		"desc": "英文字体"
+	},{
+		"title": "求字体",
+		"href": "http://www.qiuziti.com/",
+		"desc": "上传图片找字体"
+	},{
+		"title": "PS家园网",
+		"href": "http://www.psjia.com/pssc/fontxz/",
+		"desc": "PS字体素材下载"
+	}]
+},{
+	"title": "素材",
+	"id": "material",
+	"list": [{
+		"title": "unsplash",
+		"href": "https://unsplash.com/",
+		"desc": "图片素材下载"
+	},{
+		"title": "千库网",
+		"href": "http://588ku.com/",
+		"desc": "图片素材下载"
+	},{
+		"title": "千图网",
+		"href": "http://www.58pic.com/",
+		"desc": "图片素材网站"
+	},{
+		"title": "源码之家",
+		"href": "http://www.mycodes.net/",
+		"desc": "源码免费下载"
+	},{
+		"title": "网页素材大全",
+		"href": "http://js.itivy.com/",
+		"desc": "有不少网页设计素材"
+	},{
+		"title": "看我特效网",
+		"href": "http://www.kaiwo123.com/",
+		"desc": "一些网页特效代码"
+	},{
+		"title": "365psd",
+		"href": "http://cn.365psd.com/",
+		"desc": "每天下载一个矢量图和PS素材"
+	},{
+		"title": "稀土区",
+		"href": "https://xituqu.com/",
+		"desc": "个人经营的设计资源分享"
+	},{
+		"title": "问说",
+		"href": "http://www.uedsc.com/sucai",
+		"desc": "分享与素材有关的文章素材界面和作品"
+	},{
+		"title": "egouz",
+		"href": "http://www.egouz.com/asia/china/sucai/index.html",
+		"desc": "各种素材网站"
+	},{
+		"title": "17素材",
+		"href": "http://www.17sucai.com/",
+		"desc": "各类素材"
+	},{
+		"title": "17素材",
+		"href": "http://www.uisdc.com/",
+		"desc": "网页设计联盟"
+	}]
+},{
+	"title": "手册文档",
+	"id": "document",
+	"list": [{
+		"title": "Bootstrap",
+		"href": "http://www.bootcss.com/",
+		"desc": "Bootstrap中文文档"
+	},{
+		"title": "jQuery API",
+		"href": "http://www.jquery123.com/",
+		"desc": "jQuery API 中文文档"
+	},{
+		"title": "jQuery API(css88)",
+		"href": "http://www.css88.com/jqapi-1.9/",
+		"desc": "jQuery API 中文文档"
+	},{
+		"title": "Sass",
+		"href": "https://sass-guidelin.es/zh/",
+		"desc": "Sass中文文档"
+	},{
+		"title": "Less",
+		"href": "http://lesscss.cn/",
+		"desc": "less中文网"
+	},{
+		"title": "stylus(英文)",
+		"href": "http://www.stylus.com/",
+		"desc": "stylus英文官网"
+	},{
+		"title": "stylus",
+		"href": "http://www.zhangxinxu.com/jq/stylus/",
+		"desc": "stylus中文参考文档"
+	},{
+		"title": "Web Uploader",
+		"href": "http://fex.baidu.com/webuploader/",
+		"desc": "文件上传组件"
+	},{
+		"title": "css88",
+		"href": "http://www.css88.com/nav/",
+		"desc": "css88中推荐的前端文档与工具"
+	},{
+		"title": "Hexo",
+		"href": "https://hexo.io/zh-cn/",
+		"desc": "Hexo博客框架中文文档"
+	},{
+		"title": "汇智网API总结",
+		"href": "http://man.hubwiz.com/",
+		"desc": "汇智网总结的API"
+	},{
+		"title": "webpack",
+		"href": "http://webpack.github.io/",
+		"desc": "webpack官网"
+	},{
+		"title": "eslint",
+		"href": "http://eslint.cn/",
+		"desc": "eslint中文文档"
+	},{
+		"title": "gulp",
+		"href": "http://www.gulpjs.com.cn/",
+		"desc": "gulp中文网"
+	},{
+		"title": "gulp资料大全",
+		"href": "https://segmentfault.com/a/1190000004915222",
+		"desc": "个人程序员总结的gulp资料大全"
+	},{
+		"title": "React Native(中文)",
+		"href": "http://reactnative.cn/",
+		"desc": "React Native 中文网"
+	},{
+		"title": "nunjucks",
+		"href": "http://mozilla.github.io/nunjucks/",
+		"desc": "模板引擎"
+	},{
+		"title": "artTemplate",
+		"href": "https://github.com/aui/artTemplate",
+		"desc": "模板引擎"
+	},{
+		"title": "yarn",
+		"href": "https://yarn.bootcss.com/",
+		"desc": "依赖管理工具"
+	},{
+		"title": "requirejs",
+		"href": "http://requirejs.org/",
+		"desc": "前端模块化"
+	}]
+},{
+	"title": "社区类",
+	"id": "community",
+	"list": [{
+		"title": "stackoverflow",
+		"href": "http://stackoverflow.com/",
+		"desc": "程序员都懂得"
+	},{
+		"title": "github",
+		"href": "https://github.com/",
+		"desc": "程序员都懂得"
+	},{
+		"title": "掘金",
+		"href": "https://juejin.im/welcome",
+		"desc": "技术分享社区"
+	},{
+		"title": "CSDN",
+		"href": "http://www.csdn.net/",
+		"desc": "中文IT社区"
+	},{
+		"title": "开源中国",
+		"href": "https://www.oschina.net/",
+		"desc": "开源技术社区"
+	},{
+		"title": "博客园",
+		"href": "http://www.cnblogs.com/",
+		"desc": "知识分享社区,开发者的网上家园"
+	},{
+		"title": "segmentfault",
+		"href": "https://segmentfault.com/",
+		"desc": "开发者技术社区,技术交流平台"
+	},{
+		"title": "码农网",
+		"href": "http://www.codeceo.com/",
+		"desc": "编程资料与编程经验分享平台"
+	},{
+		"title": "Div.io",
+		"href": "http://div.io/#/welcome",
+		"desc": "前端资源"
+	},{
+		"title": "前端观察",
+		"href": "https://www.qianduan.net/",
+		"desc": "前端技术分享网站"
+	},{
+		"title": "前端乱炖",
+		"href": "http://www.html-js.com/",
+		"desc": "前端技术内容社区"
+	},{
+		"title": "伯乐在线",
+		"href": "http://www.jobbole.com/",
+		"desc": "IT互联网职业社区"
+	},{
+		"title": "简书",
+		"href": "http://www.jianshu.com/",
+		"desc": "有一些不错的前端内容"
+	}]
+},{
+	"title": "UI框架",
+	"id": "UI",
+	"list": [{
+		"title": "awesomes",
+		"href": "https://www.awesomes.cn/",
+		"desc": "基本上框架、插件、库来这里找就齐全了"
+	},{
+		"title": "BootCDN",
+		"href": "http://www.bootcdn.cn/",
+		"desc": "收录n多前端开源库，稳定、快速、免费的前端开源项目 CDN 服务"
+	},{
+		"title": "bootstrap(英文)",
+		"href": "http://getbootstrap.com/",
+		"desc": "bootstrap官网"
+	},{
+		"title": "Bootstrap(中文)",
+		"href": "http://www.bootcss.com/",
+		"desc": "Bootstrap中文文档"
+	},{
+		"title": "layui",
+		"href": "http://www.layui.com",
+		"desc": "模块化前端框架"
+	},{
+		"title": "Amaze ~妹子UI",
+		"href": "http://amazeui.org/",
+		"desc": "开源 HTML5 跨屏前端框架"
+	},{
+		"title": "Metronic",
+		"href": "http://www.metronic.com/",
+		"desc": "基于 Bootstrap 的响应式后台管理模板"
+	},{
+		"title": "foundation",
+		"href": "http://foundation.zurb.com/",
+		"desc": "响应式框架"
+	},{
+		"title": "EasyUI",
+		"href": "http://www.jeasyui.net/",
+		"desc": "一种基于jQuery的用户界面插件集合"
+	},{
+		"title": "Metro UI",
+		"href": "https://metroui.org.ua/",
+		"desc": "一套用来创建类似于Windows 8 Metro UI风格网站的样式"
+	},{
+		"title": "Semantic UI",
+		"href": "https://semantic-ui.com/",
+		"desc": "响应式框架"
+	},{
+		"title": "Semantic UI(中文)",
+		"href": "http://www.semantic-ui-cn.com/",
+		"desc": "Semantic UI中文学习网站"
+	},{
+		"title": "Pure",
+		"href": "https://purecss.io/grids/",
+		"desc": "一个'纯'的css组件库"
+	},{
+		"title": "uikit",
+		"href": "https://getuikit.com/",
+		"desc": "轻量的模块化的UI框架"
+	},{
+		"title": "skeleton",
+		"href": "http://getskeleton.com/",
+		"desc": "简单响应式的框架模板"
+	},{
+		"title": "ANT DESIGN",
+		"href": "https://ant.design/index-cn",
+		"desc": "React 组件"
+	},{
+		"title": "jQuery UI",
+		"href": "http://www.jqueryui.org.cn/",
+		"desc": "基于Jquery的开源网页用户界面代码库"
+	}]
+},{
+	"title": "js框架/库",
+	"id": "library",
+	"list": [{
+		"title": "jquery",
+		"href": "http://jquery.com/",
+		"desc": "不用多解释"
+	},{
+		"title": "Zepto",
+		"href": "http://www.zeptojs.cn/",
+		"desc": "移动端的jquery"
+	},{
+		"title": "angular(中文)",
+		"href": "https://angular.cn/",
+		"desc": "angular中文官网"
+	},{
+		"title": "angular中文社区",
+		"href": "http://angularjs.cn/",
+		"desc": "angular中文社区"
+	},{
+		"title": "angular(英文)",
+		"href": "https://angularjs.org/",
+		"desc": "angular英文官网"
+	},{
+		"title": "React(英文)",
+		"href": "https://facebook.github.io/react/",
+		"desc": "React英文官网"
+	},{
+		"title": "Vue",
+		"href": "http://cn.vuejs.org/",
+		"desc": "vue官网"
+	},{
+		"title": "Vue",
+		"href": "https://www.vuefe.cn/v2/guide/",
+		"desc": "也是vue"
+	},{
+		"title": "Underscore(英文)",
+		"href": "http://underscorejs.org/",
+		"desc": "js库,英文官网"
+	},{
+		"title": "Underscore(中文)",
+		"href": "http://www.css88.com/doc/underscore/",
+		"desc": "Underscore中文文档"
+	},{
+		"title": "Semantic UI",
+		"href": "https://semantic-ui.com/",
+		"desc": "响应式框架"
+	},{
+		"title": "Semantic UI(中文)",
+		"href": "http://www.semantic-ui-cn.com/",
+		"desc": "Semantic UI中文学习网站"
+	},{
+		"title": "Pure",
+		"href": "https://purecss.io/grids/",
+		"desc": "一个'纯'的css组件库"
+	},{
+		"title": "uikit",
+		"href": "https://getuikit.com/",
+		"desc": "轻量的模块化的UI框架"
+	},{
+		"title": "skeleton",
+		"href": "http://getskeleton.com/",
+		"desc": "简单响应式的框架模板"
+	},{
+		"title": "Backbone",
+		"href": "http://backbonejs.org/",
+		"desc": "轻量级的MVC框架"
+	},{
+		"title": "Flux",
+		"href": "http://facebook.github.io/flux/",
+		"desc": "创建用户接口的应用框架"
+	},{
+		"title": "Hammer",
+		"href": "http://hammerjs.github.io/",
+		"desc": "实现多点触控的javascript库"
+	}]
+},{
+	"title": "插件",
+	"id": "plugin",
+	"list": [{
+		"title": "Slick",
+		"href": "http://kenwheeler.github.io/slick/",
+		"desc": "jquery轮播图插件"
+	},{
+		"title": "Cropper",
+		"href": "http://fengyuanchen.github.io/cropper/",
+		"desc": "jquery图片裁剪插件"
+	},{
+		"title": "Fancybox",
+		"href": "http://fancyapps.com/fancybox/",
+		"desc": "jquery为图片、网页和多媒体添加灯箱功能"
+	},{
+		"title": "echarts",
+		"href": "http://echarts.baidu.com/",
+		"desc": "百度的图表可视化插件"
+	},{
+		"title": "ECharts-X",
+		"href": "http://echarts.baidu.com/echarts2/x/doc/index.html",
+		"desc": "ECharts-X 的定位是 ECharts 的扩展,3D可视化"
+	},{
+		"title": "three.js",
+		"href": "https://threejs.org/",
+		"desc": "JavaScript编写的WebGL第三方库。提供了非常多的3D显示功能"
+	},{
+		"title": "fullpage",
+		"href": "http://www.jq22.com/jquery-info1124",
+		"desc": "全屏滚动插件"
+	},{
+		"title": "jQuery-File-Upload",
+		"href": "https://github.com/blueimp/jQuery-File-Upload",
+		"desc": "文件上传插件"
+	},{
+		"title": "simplePagination",
+		"href": "http://flaviusmatis.github.io/simplePagination.js/",
+		"desc": "分页插件"
+	},{
+		"title": "jQuery Pagination plugin",
+		"href": "http://esimakin.github.io/twbs-pagination/",
+		"desc": "分页插件"
+	},{
+		"title": "datetimepicker",
+		"href": "http://www.bootcss.com/p/bootstrap-datetimepicker/",
+		"desc": "日期时间选择器"
+	},{
+		"title": "datepicker",
+		"href": "http://bootstrap-datepicker.readthedocs.io/en/latest/",
+		"desc": "bootstrap日期选择器"
+	},{
+		"title": "iScroll",
+		"href": "http://cubiq.org/iscroll-5",
+		"desc": "移动端滚动插件"
+	},{
+		"title": "twbs-pagination",
+		"href": "https://www.npmjs.com/package/twbs-pagination",
+		"desc": "分页插件"
+	},{
+		"title": "moment",
+		"href": "http://momentjs.cn/",
+		"desc": "日期处理类库"
+	},{
+		"title": "validator",
+		"href": "https://github.com/chriso/validator.js",
+		"desc": "后台验证插件"
+	},{
+		"title": "jquery-validation",
+		"href": "https://jqueryvalidation.org/",
+		"desc": "表单验证插件"
+	}]
+},{
+	"title": "ES6",
+	"id": "es6",
+	"list": [{
+		"title": "ECMAScript 6 入门",
+		"href": "http://es6.ruanyifeng.com/",
+		"desc": "阮一峰老师的ECMAScript 6 入门"
+	},{
+		"title": "es6",
+		"href": "http://es6-features.org/#BlockScopedVariables",
+		"desc": "es6新特性"
+	},{
+		"title": "Learn ES2015",
+		"href": "https://babeljs.io/learn-es2015/",
+		"desc": "bable官网的"
+	},{
+		"title": "bable",
+		"href": "http://babeljs.io/",
+		"desc": "bable官网"
+	},{
+		"title": "ecma",
+		"href": "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
+		"desc": "ecma-262标准"
+	},{
+		"title": "bable入门教程",
+		"href": "http://www.ruanyifeng.com/blog/2016/01/babel.html",
+		"desc": "阮一峰老师写的bable入门教程"
+	}]
+},{
+	"title": "前端模块化",
+	"id": "module",
+	"list": [{
+		"title": "requirejs(英文)",
+		"href": "http://requirejs.org/",
+		"desc": "AMD规范"
+	},{
+		"title": "requirejs(中文)",
+		"href": "http://www.requirejs.cn/",
+		"desc": "AMd规范"
+	},{
+		"title": "commonjs",
+		"href": "http://www.commonjs.org/",
+		"desc": "node使用的commonjs规范"
+	}]
+}]
